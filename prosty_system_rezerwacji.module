@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Prosty system rezerwacji feature.
+ */
+
+include_once 'prosty_system_rezerwacji.features.inc';
